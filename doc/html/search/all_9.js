@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['main_0',['main',['../build_2_c_make_files_23_831_86_2_compiler_id_c_2_c_make_c_compiler_id_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;CMakeCCompilerId.c'],['../catalogo__test_8c.html#a840291bc02cba5474a4cb46a9b9566fe',1,'main(void):&#160;catalogo_test.c'],['../cmake-build-debug_2_c_make_files_23_831_86_2_compiler_id_c_2_c_make_c_compiler_id_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;CMakeCCompilerId.c'],['../main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.c']]],
+  ['main_2ec_1',['main.c',['../main_8c.html',1,'']]],
+  ['main_2ec_2eo_2ed_2',['main.c.o.d',['../main_8c_8o_8d.html',1,'']]],
+  ['max_5fdesc_3',['MAX_DESC',['../catalogo_8h.html#a06ea269956fb652c4f4853e593813b26',1,'catalogo.h']]],
+  ['max_5feditore_4',['MAX_EDITORE',['../catalogo_8h.html#a288768cabdde57819d0ff4dfe41d5ef7',1,'catalogo.h']]],
+  ['max_5fgenere_5',['MAX_GENERE',['../catalogo_8h.html#a059dfbb657206312b9438c568a66d852',1,'catalogo.h']]],
+  ['max_5fgeneri_6',['MAX_GENERI',['../catalogo_8h.html#a2b67e9557711337c2994fbf5d53efc70',1,'catalogo.h']]],
+  ['max_5frecensioni_7',['MAX_RECENSIONI',['../catalogo_8h.html#af8ea342a53c750844ac95c177d5251b3',1,'catalogo.h']]],
+  ['max_5fsviluppatore_8',['MAX_SVILUPPATORE',['../catalogo_8h.html#a06c6aca315ae93a5714f40b6ca938c0e',1,'catalogo.h']]],
+  ['max_5ftitolo_9',['MAX_TITOLO',['../catalogo_8h.html#a2d55ae40a817824cd9a583a7a93980f2',1,'catalogo.h']]],
+  ['max_5fvideogiochi_10',['MAX_VIDEOGIOCHI',['../catalogo_8h.html#a9064f8f6c1ff67f6c72383c9a6d83e84',1,'catalogo.h']]],
+  ['media_5fvoti_11',['media_voti',['../struct_videogioco__t.html#a3f6c1498452a77e341e1b67d39b7017f',1,'Videogioco_t']]],
+  ['menu_2ec_12',['menu.c',['../menu_8c.html',1,'']]],
+  ['menu_2ec_2eo_2ed_13',['menu.c.o.d',['../menu_8c_8o_8d.html',1,'']]],
+  ['menu_5famministratore_14',['menu_amministratore',['../catalogo_8h.html#a1a0566e69d5fda23683087a5e6054479',1,'menu_amministratore():&#160;menu.c'],['../menu_8c.html#a1a0566e69d5fda23683087a5e6054479',1,'menu_amministratore():&#160;menu.c']]],
+  ['menu_5fordinamento_5fcatalogo_15',['menu_ordinamento_catalogo',['../catalogo_8h.html#abea68332eb69fd9c8255ff7ba74183ee',1,'menu_ordinamento_catalogo():&#160;menu.c'],['../menu_8c.html#abea68332eb69fd9c8255ff7ba74183ee',1,'menu_ordinamento_catalogo():&#160;menu.c']]],
+  ['menu_5fprincipale_16',['menu_principale',['../catalogo_8h.html#a939a048902a0723df6a32f55d78b25f5',1,'menu_principale():&#160;menu.c'],['../menu_8c.html#a939a048902a0723df6a32f55d78b25f5',1,'menu_principale():&#160;menu.c']]],
+  ['menu_5fvisitatore_17',['menu_visitatore',['../catalogo_8h.html#a606cffeef5868375f3e929a8de20891f',1,'menu_visitatore():&#160;menu.c'],['../menu_8c.html#a606cffeef5868375f3e929a8de20891f',1,'menu_visitatore():&#160;menu.c']]],
+  ['modifica_5fvideogioco_2ec_18',['modifica_videogioco.c',['../modifica__videogioco_8c.html',1,'']]],
+  ['modifica_5fvideogioco_2ec_2eo_2ed_19',['modifica_videogioco.c.o.d',['../modifica__videogioco_8c_8o_8d.html',1,'']]],
+  ['modificarecensione_20',['modificaRecensione',['../catalogo_8h.html#a8698b2cec18909bde65aff747ad8557b',1,'modificaRecensione():&#160;recensione.c'],['../recensione_8c.html#a8698b2cec18909bde65aff747ad8557b',1,'modificaRecensione():&#160;recensione.c']]],
+  ['modificavideogioco_21',['modificaVideogioco',['../catalogo_8h.html#a9ad332bfdb05e2cda84d65a82c317ed5',1,'modificaVideogioco():&#160;modifica_videogioco.c'],['../modifica__videogioco_8c.html#a9ad332bfdb05e2cda84d65a82c317ed5',1,'modificaVideogioco():&#160;modifica_videogioco.c']]],
+  ['more_20information_22',['More Information',['../md__r_e_a_d_m_e___d_o_x_y_g_e_n.html#autotoc_md7',1,'']]]
+];

@@ -1,0 +1,3 @@
+/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build/CMakeFiles/CARTELLA_PROGETTO.dir
+/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build/CMakeFiles/edit_cache.dir
+/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build/CMakeFiles/rebuild_cache.dir

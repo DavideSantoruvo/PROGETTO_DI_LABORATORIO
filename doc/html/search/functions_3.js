@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['main_0',['main',['../build_2_c_make_files_23_831_86_2_compiler_id_c_2_c_make_c_compiler_id_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;CMakeCCompilerId.c'],['../catalogo__test_8c.html#a840291bc02cba5474a4cb46a9b9566fe',1,'main(void):&#160;catalogo_test.c'],['../cmake-build-debug_2_c_make_files_23_831_86_2_compiler_id_c_2_c_make_c_compiler_id_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;CMakeCCompilerId.c'],['../main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4',1,'main():&#160;main.c']]],
+  ['menu_5famministratore_1',['menu_amministratore',['../catalogo_8h.html#a1a0566e69d5fda23683087a5e6054479',1,'menu_amministratore():&#160;menu.c'],['../menu_8c.html#a1a0566e69d5fda23683087a5e6054479',1,'menu_amministratore():&#160;menu.c']]],
+  ['menu_5fordinamento_5fcatalogo_2',['menu_ordinamento_catalogo',['../catalogo_8h.html#abea68332eb69fd9c8255ff7ba74183ee',1,'menu_ordinamento_catalogo():&#160;menu.c'],['../menu_8c.html#abea68332eb69fd9c8255ff7ba74183ee',1,'menu_ordinamento_catalogo():&#160;menu.c']]],
+  ['menu_5fprincipale_3',['menu_principale',['../catalogo_8h.html#a939a048902a0723df6a32f55d78b25f5',1,'menu_principale():&#160;menu.c'],['../menu_8c.html#a939a048902a0723df6a32f55d78b25f5',1,'menu_principale():&#160;menu.c']]],
+  ['menu_5fvisitatore_4',['menu_visitatore',['../catalogo_8h.html#a606cffeef5868375f3e929a8de20891f',1,'menu_visitatore():&#160;menu.c'],['../menu_8c.html#a606cffeef5868375f3e929a8de20891f',1,'menu_visitatore():&#160;menu.c']]],
+  ['modificarecensione_5',['modificaRecensione',['../catalogo_8h.html#a8698b2cec18909bde65aff747ad8557b',1,'modificaRecensione():&#160;recensione.c'],['../recensione_8c.html#a8698b2cec18909bde65aff747ad8557b',1,'modificaRecensione():&#160;recensione.c']]],
+  ['modificavideogioco_6',['modificaVideogioco',['../catalogo_8h.html#a9ad332bfdb05e2cda84d65a82c317ed5',1,'modificaVideogioco():&#160;modifica_videogioco.c'],['../modifica__videogioco_8c.html#a9ad332bfdb05e2cda84d65a82c317ed5',1,'modificaVideogioco():&#160;modifica_videogioco.c']]]
+];

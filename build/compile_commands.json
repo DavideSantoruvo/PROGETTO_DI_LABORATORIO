@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/main.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/main.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/main.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/main.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/catalogo.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/catalogo.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/catalogo.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/catalogo.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/visualizza_catalogo.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/visualizza_catalogo.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/visualizza_catalogo.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/visualizza_catalogo.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/aggiungi_videogioco.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/aggiungi_videogioco.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/aggiungi_videogioco.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/aggiungi_videogioco.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/modifica_videogioco.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/modifica_videogioco.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/modifica_videogioco.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/modifica_videogioco.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/ricerca_videogioco.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/ricerca_videogioco.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/ricerca_videogioco.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/ricerca_videogioco.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/recensione.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/recensione.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/recensione.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/recensione.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/menu.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/menu.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/menu.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/menu.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/acquisto_Videogioco.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/acquisto_Videogioco.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/acquisto_Videogioco.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/acquisto_Videogioco.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/ordinamento_CopieVendute.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/ordinamento_CopieVendute.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/ordinamento_CopieVendute.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/ordinamento_CopieVendute.c.o"
+},
+{
+  "directory": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -o CMakeFiles/CARTELLA_PROGETTO.dir/ordinamento_Punteggio.c.o -c \"/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/ordinamento_Punteggio.c\"",
+  "file": "/Users/davidesantoruvo/Desktop/CARTELLA PROGETTO/ordinamento_Punteggio.c",
+  "output": "CMakeFiles/CARTELLA_PROGETTO.dir/ordinamento_Punteggio.c.o"
+}
+]
